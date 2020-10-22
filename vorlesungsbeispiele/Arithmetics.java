@@ -1,12 +1,3 @@
-/*
- * Factorial
- *
- * Version 1.0
- *
- * Open Source
- *
- * Written by Jan Eike Suchard
- */
 package vorlesungsbeispiele;
 
 public class Arithmetics {
@@ -17,5 +8,5 @@ public class Arithmetics {
         int z = x / (y - 1);
         System.out.println(z);
     }
-    
+
 }
