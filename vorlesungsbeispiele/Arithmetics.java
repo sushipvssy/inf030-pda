@@ -17,4 +17,5 @@ public class Arithmetics {
         int z = x / (y - 1);
         System.out.println(z);
     }
+    
 }
