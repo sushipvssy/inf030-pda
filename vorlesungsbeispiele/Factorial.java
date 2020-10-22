@@ -1,3 +1,13 @@
+/*
+ * Factorial
+ *
+ * Version 1.0
+ *
+ * Open Source
+ *
+ * Written by Jan Eike Suchard
+ */
+
 package vorlesungsbeispiele;
 
 public class Factorial {
